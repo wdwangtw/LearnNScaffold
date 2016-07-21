@@ -1,0 +1,8 @@
+build/tools/ps-gets
+packages
+bin/
+obj/
+tmp/
+.idea/
+App_Data/*
+commit-version.txt
